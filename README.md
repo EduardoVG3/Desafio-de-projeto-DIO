@@ -1,2 +1,2 @@
-# Desafio-de-projeto-DIO
+# Projeto_DIO
 Desafio de projeto pela DIO - HTML
